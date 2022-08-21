@@ -8,10 +8,4 @@ git commands used so far
  git push origin main
  git checkout -b update_script
  git add .
- git commit -m "My personal work"
- git push origin update_script
- git branch main
- git checkout main
- git add .
- git commit -m "Hot fix"
- git push origin main
+ git commit -m "My personal work"`
